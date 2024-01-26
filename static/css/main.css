@@ -67,6 +67,10 @@
     display: inline-block; /* Ensure consistent spacing */
 }
 
+.contentbtn a:visited {
+    color: blueviolet;
+}
+
 .contentbtn button:hover,
 .contentbtn a:hover {
     color: black;
